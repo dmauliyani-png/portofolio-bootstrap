@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #d0f4fe;
+  z-index: -1;
+}
+
+#About {
+  background-color: #f5ff83;
+  font-family: "Lucida Sans";
+  font-style: italic;
+}
+
+#Galeri {
+  background-color: #d0f4fe;
+}
+
+#Contact {
+  background-color: #fc9bc3;
+  margin-top: -5px;
+}
+
+section {
+  padding-top: 5rem;
+}
